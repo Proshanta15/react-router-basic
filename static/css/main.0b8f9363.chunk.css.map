@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACI,oBAAqB,CACrB,UACJ,CAEA,aACI,SAAU,CACV,eAAiB,CACjB,4BACJ","file":"main.0b8f9363.chunk.css","sourcesContent":["a{\r\n    text-decoration: none;\r\n    color: #000;\r\n}\r\n\r\n.active_menu{\r\n    color: red;\r\n    font-weight: bold;\r\n    border-bottom: 1px solid #000;\r\n}"]}
